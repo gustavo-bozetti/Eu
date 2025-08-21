@@ -16,5 +16,9 @@
 > <h4>Tecnólogo de Analise e Desenvolvimento de Sistemas</h4>
 <h6>São Paulo Tech School</h6>
 
-> <h4> JavaScript Completo</h4>
-<h6>Serliv<h6>
+<h3>Certificados:</h3>
+> <h4> AWS certified cloud practitioner</h4>
+> <h4> Cisco Networking Cybersecurity essencial</h4>
+
+<h3>Experiência:</h3>
+> <h4> Catency - desenolvedor front-end</h4>
